@@ -1,0 +1,21 @@
+/*******************
+* 練習用のCSSである。
+* 読み込んでくれると嬉しい。
+* 
+* 
+*******************/
+
+.contents {
+  border: 2px;
+  padding: auto 20px;
+}
+
+.content {
+  float: left;
+}
+
+ul {
+  list-style: none;  
+}
+
+
