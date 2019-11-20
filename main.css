@@ -5,6 +5,20 @@
 * 
 *******************/
 
+header{
+  background-color: yellow;
+  border-bottom: green;
+  
+}
+
+header p {
+  float: left;
+}
+
+ul {
+  float:right;
+}
+
 .contents-wrapper {
   border: 2px solid #000000;
 }
@@ -13,6 +27,26 @@
   float: left;
 }
 
+.clear {
+  clear: left;
+}
+
 ul {
   list-style: none;  
+}
+
+table {
+  width: 45%;
+  float:left;
+  background-color: #444;
+}
+
+td {
+  border:1px solid #fff;
+}
+
+.links {
+  background-color: #666;
+  width: 45%;
+  float: right;
 }
